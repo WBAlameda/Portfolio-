@@ -1,0 +1,38 @@
+h1 {
+	font-size: 2.3em;
+	text-align: center;
+	color: #FF0000;
+	
+}
+ 
+ div.scrollmenu {
+	background-color: #333;
+	overflow: auto;
+	white-space: nowrap;
+}
+
+div.scrollmenu a {
+	display: inline-block;
+	color: white;
+	text-allign: center;
+	padding: 14px;
+	text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+	background_color: #777;
+}
+ div.background of{
+	background-color: #330;
+	overflow: auto;
+	white-space: nowrap;
+}
+div.gradient {
+  background-image:
+    linear-gradient(
+      to right, 
+      red, #FFFFF2
+    );
+}
+
+	
